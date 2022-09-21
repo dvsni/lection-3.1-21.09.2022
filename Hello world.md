@@ -14,3 +14,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin "ссылка"
 git push -u origin main
+
+Изменения внесли на GitHub на сайте
